@@ -1,6 +1,6 @@
 # XAI_Feature-Importance
 
-Network Traffic CLassifcation using Machine learning
+Network Traffic Classifcation using Machine learning
 
 ## Summary:
 - Traditional methods of network classification, such as port scanning and packet inspection, are becoming inefficient due to the rapid evolution of darknet technology.
